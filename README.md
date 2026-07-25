@@ -4,9 +4,9 @@
 
 <h1 align="center">Crystal Frasier</h1>
 
-<h3 align="center">
-Cybersecurity • Artificial Intelligence • Business Operations • Automation
-</h3>
+<p align="center">
+  🛡️ Cybersecurity • 🤖 Artificial Intelligence • 📊 Business Operations • ⚙️ Automation
+</p>
 
 <p align="center">
 Founder of <strong>Quantum Technologies</strong>
