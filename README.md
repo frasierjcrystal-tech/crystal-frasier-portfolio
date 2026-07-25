@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LOGO1.png" alt="Quantum Technologies Logo" width="300">
+ <img src="quantum-technologies-logo.png" alt="Quantum Technologies Logo" width="340">
 </p>
 
 <h1 align="center">
